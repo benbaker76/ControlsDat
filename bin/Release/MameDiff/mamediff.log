@@ -1,0 +1,2227 @@
+------------------------------- Game removals --------------------------------
+
+< Dogou Souken (Joystick hack bootleg) [name: dogosokj - parent: victroad]
+< The King of Fighters '95 (set 2) [name: kof95a - parent: kof95]
+< Samurai Shodown III / Samurai Spirits - Zankurou Musouken (set 2) [name: samsho3a - parent: samsho3]
+< Super Basketball (not encrypted) [name: sbasketu - parent: sbasketb]
+
+----------- Games affected by reorganisation of ROMs/Disks/Samples -----------
+
+2020 Super Baseball (set 1) [name: 2020bb]
+Changes: ROM removals (in parent)
+
+2020 Super Baseball (set 2) [name: 2020bba - parent: 2020bb]
+Changes: ROM removals (in parent)
+
+2020 Super Baseball (set 3) [name: 2020bbh - parent: 2020bb]
+Changes: ROM removals (in parent)
+
+< Ms. Pac-Man/Galaga - 20 Year Reunion [name: 20pacgal]
+> Ms. Pac-Man/Galaga - 20 Year Reunion (V1.01) [name: 20pacgaa - parent: 20pacgal]
+Changes: ROM merge details
+
+3 Count Bout / Fire Suplex [name: 3countb]
+Changes: ROM removals (in parent)
+
+Air Trix [name: airtrix]
+Changes: ROM removals
+
+Alpha Mission II / ASO II - Last Guardian [name: alpham2]
+Changes: ROM removals (in parent)
+
+Alpha Mission [name: alphamis - parent: aso]
+Changes: ROM renames, ROM renames (in parent), ROM merge details
+
+Andro Dunos [name: androdun]
+Changes: ROM removals (in parent)
+
+Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku [name: aodk]
+Changes: ROM removals (in parent)
+
+Art of Fighting / Ryuuko no Ken [name: aof]
+Changes: ROM removals (in parent)
+
+Art of Fighting 2 / Ryuuko no Ken 2 (set 1) [name: aof2]
+Changes: ROM removals (in parent)
+
+Art of Fighting 2 / Ryuuko no Ken 2 (set 2) [name: aof2a - parent: aof2]
+Changes: ROM removals (in parent)
+
+Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden [name: aof3]
+Changes: ROM removals (in parent)
+
+Art of Fighting 3 - The Path of the Warrior (Korean release) [name: aof3k - parent: aof3]
+Changes: ROM removals (in parent)
+
+Arian Mission [name: arian - parent: aso]
+Changes: ROM renames, ROM renames (in parent), ROM merge details
+
+Tournament Arkanoid (US) [name: arkatour - parent: arkanoid]
+Changes: ROM renames, ROM removals
+
+ASO - Armored Scrum Object [name: aso]
+Changes: ROM renames, ROM removals
+
+Atomiswave Bios [name: awbios]
+Changes: ROM renames
+
+Bakatonosama Mahjong Manyuki [name: bakatono]
+Changes: ROM removals (in parent)
+
+Bang Bead [name: bangbead]
+Changes: ROM removals (in parent)
+
+< Bermuda Triangle (US older version) [name: bermudaa - parent: bermudat]
+> Bermuda Triangle (World Wars) (US) [name: bermudaa - parent: worldwar]
+Changes: ROM merge details
+
+< Bermuda Triangle (Japan old version) [name: bermudao - parent: bermudat]
+> Bermuda Triangle (Japan) [name: bermudaj - parent: bermudat]
+
+Blue's Journey / Raguy [name: bjourney]
+Changes: ROM removals (in parent)
+
+Blazing Star [name: blazstar]
+Changes: ROM removals (in parent)
+
+Boogie Wings (Asia v1.5, 92.12.07) [name: boogwina - parent: boogwing]
+Changes: ROM renames, ROM renames (in parent), ROM merge details
+
+Boogie Wings (Euro v1.5, 92.12.07) [name: boogwing]
+Changes: ROM renames
+
+Breakers [name: breakers]
+Changes: ROM removals (in parent)
+
+Breakers Revenge [name: breakrev - parent: breakers]
+Changes: ROM removals (in parent)
+
+Baseball Stars Professional [name: bstars]
+Changes: ROM removals (in parent)
+
+Baseball Stars 2 [name: bstars2]
+Changes: ROM removals (in parent)
+
+Bubble Symphony (bootleg with OKI6295) [name: bubsympb - parent: bublbob2]
+Changes: ROM removals
+
+Burning Fight (set 1) [name: burningf]
+Changes: ROM removals (in parent)
+
+Burning Fight (set 2) [name: burningh - parent: burningf]
+Changes: ROM removals (in parent)
+
+< Country Club [name: countryc - parent: fitegolf]
+> Country Club [name: countryc]
+
+Crack Down (Japan, Floppy Based, FD1094 317-0058-04b) [name: crkdownj - parent: crkdown]
+Changes: ROM renames
+
+Crossed Swords [name: crsword]
+Changes: ROM removals (in parent)
+
+< Capcom Sports Club (Euro 970722) [name: csclub]
+> Capcom Sports Club (Euro 970722) [name: csclub1 - parent: csclub]
+Changes: ROM merge details
+
+Capcom Sports Club (Asia 970722) [name: cscluba - parent: csclub]
+Changes: ROM merge details
+
+Capcom Sports Club (Hispanic 970722) [name: csclubh - parent: csclub]
+Changes: ROM merge details
+
+Capcom Sports Club (Japan 970722) [name: csclubj - parent: csclub]
+Changes: ROM merge details
+
+Crouching Tiger Hidden Dragon 2003 Super Plus alternate (The King of Fighters 2001 bootleg) [name: ct2k3sa - parent: kof2001]
+Changes: ROM removals (in parent)
+
+Crouching Tiger Hidden Dragon 2003 Super Plus (The King of Fighters 2001 bootleg) [name: ct2k3sp - parent: kof2001]
+Changes: ROM removals (in parent)
+
+Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg) [name: cthd2003 - parent: kof2001]
+Changes: ROM removals (in parent)
+
+Captain Tomaday [name: ctomaday]
+Changes: ROM removals (in parent)
+
+Capcom Vs. SNK 2 [name: cvs2gd]
+Changes: ROM removals
+
+Cyber-Lip [name: cyberlip]
+Changes: ROM removals (in parent)
+
+< Decathlete (JUET 960424 V1.000) [name: decathlt]
+> Decathlete (JUET 960424 V1.000) [name: decathlo - parent: decathlt]
+Changes: ROM merge details
+
+Digger Man (prototype) [name: diggerma]
+Changes: ROM renames, ROM removals (in parent)
+
+Double Dragon (Neo-Geo) [name: doubledr]
+Changes: ROM removals (in parent)
+
+Eight Man [name: eightman]
+Changes: ROM removals (in parent)
+
+Emeraldia (World) [name: emeralda]
+Changes: ROM removals
+
+Fatal Fury Special / Garou Densetsu Special (set 2) [name: fatfursa - parent: fatfursp]
+Changes: ROM removals (in parent)
+
+Fatal Fury Special / Garou Densetsu Special (set 1) [name: fatfursp]
+Changes: ROM removals (in parent)
+
+Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai [name: fatfury1]
+Changes: ROM removals (in parent)
+
+Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai [name: fatfury2]
+Changes: ROM removals (in parent)
+
+Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai [name: fatfury3]
+Changes: ROM removals (in parent)
+
+Football Frenzy [name: fbfrenzy]
+Changes: ROM removals (in parent)
+
+Fight Fever (set 1) [name: fightfev]
+Changes: ROM removals (in parent)
+
+Fight Fever (set 2) [name: fightfva - parent: fightfev]
+Changes: ROM removals (in parent)
+
+Battle Flip Shot [name: flipshot]
+Changes: ROM removals (in parent)
+
+Fighters Swords (Korean release of Samurai Shodown III) [name: fswords - parent: samsho3]
+Changes: ROM removals (in parent), ROM merge details
+
+< Fighters' Impact (Ver 2.02O) [name: ftimpact]
+> Fighters' Impact (Ver 2.02O) [name: ftimpact - parent: ftimpcta]
+Changes: ROM merge details
+
+< Fighters' Impact A (Ver 2.00J) [name: ftimpcta - parent: ftimpact]
+> Fighters' Impact A (Ver 2.00J) [name: ftimpcta]
+Changes: ROM merge details
+
+Galaxy Fight - Universal Warriors [name: galaxyfg]
+Changes: ROM removals (in parent)
+
+GameCristal [name: gamecstl]
+Changes: ROM removals
+
+Ganryu / Musashi Ganryuki [name: ganryu]
+Changes: ROM removals (in parent)
+
+Garou - Mark of the Wolves (set 1) [name: garou]
+Changes: ROM renames, ROM removals (in parent)
+
+Garou - Mark of the Wolves (bootleg) [name: garoubl - parent: garou]
+Changes: ROM renames, ROM removals (in parent)
+
+Garou - Mark of the Wolves (set 2) [name: garouo - parent: garou]
+Changes: ROM renames, ROM removals (in parent)
+
+Garou - Mark of the Wolves (prototype) [name: garoup - parent: garou]
+Changes: ROM removals (in parent)
+
+< G-Darius (Ver 2.01J) [name: gdarius]
+> G-Darius (Ver 2.01J) [name: gdarius - parent: gdarius2]
+Changes: ROM merge details
+
+< G-Darius Ver.2 (Ver 2.03J) [name: gdarius2 - parent: gdarius]
+> G-Darius Ver.2 (Ver 2.03J) [name: gdarius2]
+Changes: ROM merge details
+
+< G-Darius (Ver 2.02A) [name: gdariusb - parent: gdarius]
+> G-Darius (Ver 2.02A) [name: gdariusb - parent: gdarius2]
+
+< Gee Bee (Gremlin) [name: geebeeg - parent: geebee]
+> Gee Bee [name: geebee]
+Changes: ROM merge details
+
+Gain Ground (World, 3 Players, Floppy Based, FD1094 317-0058-03c?) [name: gground]
+Changes: ROM renames
+
+Ghostlop (prototype) [name: ghostlop]
+Changes: ROM renames, ROM removals (in parent)
+
+Goal! Goal! Goal! [name: goalx3]
+Changes: ROM removals (in parent)
+
+< Golden Poker Double Up (Mini Boy) [name: goldnpkb - parent: pmpoker]
+> Golden Poker Double Up (Mini Boy) [name: goldnpkb - parent: goldnpkr]
+Changes: ROM renames, ROM merge details
+
+< Golden Poker (no double up) [name: goldnpkc - parent: pmpoker]
+> Jack Potten's Poker (set 1) [name: pottnpkr]
+
+< Golden Poker Double Up (Big Boy) [name: goldnpkr - parent: pmpoker]
+> Golden Poker Double Up (Big Boy) [name: goldnpkr]
+
+Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer [name: gowcaizr]
+Changes: ROM removals (in parent)
+
+< GP500 [name: gp500]
+> 500GP [name: 500gp]
+
+Ghost Pilots (set 1) [name: gpilots]
+Changes: ROM removals (in parent)
+
+Ghost Pilots (set 2) [name: gpilotsh - parent: gpilots]
+Changes: ROM removals (in parent)
+
+Great Sluggers '94 [name: gslgr94u]
+Changes: ROM removals
+
+Great Sluggers (Japan) [name: gslugrsj]
+Changes: ROM removals
+
+Gun Bullet (Japan) [name: gunbulet - parent: ptblank]
+Changes: ROM removals (in parent)
+
+Gururin [name: gururin]
+Changes: ROM removals (in parent)
+
+Hard Yardage (v1.20) [name: hardyard]
+Changes: ROM renames
+
+Hard Yardage (v1.00) [name: hardyd10 - parent: hardyard]
+Changes: ROM renames
+
+Pirate Ship Higemaru [name: higemaru]
+Changes: ROM renames
+
+Hot Rod (World, 3 Players, Turbo set 1, Floppy Based) [name: hotrod]
+Changes: ROM renames
+
+Hot Rod (World, 3 Players, Turbo set 2, Floppy Based) [name: hotroda - parent: hotrod]
+Changes: ROM renames
+
+Hot Rod (Japan, 4 Players, Floppy Based) [name: hotrodj - parent: hotrod]
+Changes: ROM renames
+
+< Imago [name: imago]
+> Imago (no cocktail set) [name: imagoa - parent: imago]
+Changes: ROM merge details
+
+Indiana Jones and the Temple of Doom (Cocktail) [name: indytemc - parent: indytemp]
+Changes: ROM renames, ROM removals, ROM removals (in parent)
+
+Indiana Jones and the Temple of Doom (set 1) [name: indytemp]
+Changes: ROM merge details
+
+The Irritating Maze / Ultra Denryu Iraira Bou [name: irrmaze]
+Changes: ROM removals (in parent)
+
+Jail Break [name: jailbrek]
+Changes: ROM renames, ROM removals
+
+Jyanshin Densetsu - Quest of Jongmaster [name: janshin]
+Changes: ROM removals (in parent)
+
+Jockey Grand Prix [name: jockeygp]
+Changes: ROM removals, ROM removals (in parent)
+
+< Joker-Poker [name: jokerpkr - parent: pmpoker]
+> Jack Potten's Poker (set 2) [name: potnpkra - parent: pottnpkr]
+
+Puzzled / Joy Joy Kid [name: joyjoy]
+Changes: ROM removals (in parent)
+
+Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den [name: kabukikl]
+Changes: ROM removals (in parent)
+
+Karnov's Revenge / Fighter's History Dynamite [name: karnovr]
+Changes: ROM removals (in parent)
+
+The King of Fighters 10th Anniversary Extra Plus (The King of Fighters 2002 bootleg) [name: kf10thep - parent: kof2002]
+Changes: ROM renames, ROM removals (in parent)
+
+The King of Fighters 2002 Magic Plus (bootleg) [name: kf2k2mp - parent: kof2002]
+Changes: ROM removals (in parent)
+
+The King of Fighters 2002 Magic Plus II (bootleg) [name: kf2k2mp2 - parent: kof2002]
+Changes: ROM removals (in parent)
+
+The King of Fighters 2002 Plus (bootleg set 2) [name: kf2k2pla - parent: kof2002]
+Changes: ROM renames, ROM removals (in parent)
+
+The King of Fighters 2002 Plus (bootleg set 1) [name: kf2k2pls - parent: kof2002]
+Changes: ROM renames, ROM removals (in parent)
+
+The King of Fighters 2003 (bootleg set 1) [name: kf2k3bl - parent: kof2003]
+Changes: ROM renames, ROM removals, ROM removals (in parent)
+
+The King of Fighters 2003 (bootleg set 2) [name: kf2k3bla - parent: kof2003]
+Changes: ROM renames, ROM removals, ROM removals (in parent)
+
+The King of Fighters 2003 (Japan, JAMMA PCB) [name: kf2k3pcb]
+Changes: ROM removals
+
+The King of Fighters 2004 Plus / Hero (The King of Fighters 2003 bootleg) [name: kf2k3pl - parent: kof2003]
+Changes: ROM renames, ROM removals, ROM removals (in parent)
+
+The King of Fighters 2004 Ultra Plus (The King of Fighters 2003 bootleg) [name: kf2k3upl - parent: kof2003]
+Changes: ROM renames, ROM removals, ROM removals (in parent)
+
+The King of Fighters 10th Anniversary 2005 Unique (The King of Fighters 2002 bootleg) [name: kf2k5uni - parent: kof2002]
+Changes: ROM removals (in parent)
+
+Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle [name: kizuna]
+Changes: ROM removals (in parent)
+
+Knuckle Heads (World) [name: knckhead]
+Changes: ROM removals
+
+Knuckle Heads (Japan) [name: knckhedj - parent: knckhead]
+Changes: ROM removals (in parent)
+
+The King of Fighters 10th Anniversary (The King of Fighters 2002 bootleg) [name: kof10th - parent: kof2002]
+Changes: ROM removals (in parent)
+
+The King of Fighters 2000 [name: kof2000]
+Changes: ROM removals, ROM removals (in parent)
+
+The King of Fighters 2000 (not encrypted) [name: kof2000n - parent: kof2000]
+Changes: ROM removals (in parent)
+
+The King of Fighters 2001 (set 1) [name: kof2001]
+Changes: ROM removals, ROM removals (in parent)
+
+The King of Fighters 2001 (set 2) [name: kof2001h - parent: kof2001]
+Changes: ROM removals (in parent)
+
+The King of Fighters 2002 [name: kof2002]
+Changes: ROM removals, ROM removals (in parent)
+
+The King of Fighters 2003 [name: kof2003]
+Changes: ROM removals, ROM removals (in parent)
+
+The King of Fighters Special Edition 2004 (The King of Fighters 2002 bootleg) [name: kof2k4se - parent: kof2002]
+Changes: ROM removals (in parent)
+
+The King of Fighters '94 [name: kof94]
+Changes: ROM removals (in parent)
+
+The King of Fighters '95 (set 1) [name: kof95]
+Changes: ROM removals, ROM removals (in parent)
+
+The King of Fighters '96 (set 1) [name: kof96]
+Changes: ROM removals (in parent)
+
+The King of Fighters '96 (set 2) [name: kof96h - parent: kof96]
+Changes: ROM removals (in parent)
+
+The King of Fighters '97 (set 1) [name: kof97]
+Changes: ROM removals (in parent)
+
+The King of Fighters '97 (set 2) [name: kof97a - parent: kof97]
+Changes: ROM removals (in parent)
+
+The King of Fighters '97 Plus (bootleg) [name: kof97pls - parent: kof97]
+Changes: ROM renames, ROM removals (in parent)
+
+The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends [name: kof98]
+Changes: ROM renames, ROM removals (in parent)
+
+The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board) [name: kof98k - parent: kof98]
+Changes: ROM removals (in parent)
+
+The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (not encrypted) [name: kof98n - parent: kof98]
+Changes: ROM renames, ROM removals (in parent)
+
+The King of Fighters '99 - Millennium Battle (set 1) [name: kof99]
+Changes: ROM removals (in parent)
+
+The King of Fighters '99 - Millennium Battle (set 2) [name: kof99a - parent: kof99]
+Changes: ROM removals (in parent)
+
+The King of Fighters '99 - Millennium Battle (earlier) [name: kof99e - parent: kof99]
+Changes: ROM removals (in parent)
+
+The King of Fighters '99 - Millennium Battle (not encrypted) [name: kof99n - parent: kof99]
+Changes: ROM removals (in parent)
+
+The King of Fighters '99 - Millennium Battle (prototype) [name: kof99p - parent: kof99]
+Changes: ROM removals (in parent)
+
+King of Gladiator (The King of Fighters '97 bootleg) [name: kog - parent: kof97]
+Changes: ROM removals (in parent)
+
+King of the Monsters (set 1) [name: kotm]
+Changes: ROM removals (in parent)
+
+King of the Monsters 2 - The Next Thing [name: kotm2]
+Changes: ROM removals (in parent)
+
+King of the Monsters (set 2) [name: kotmh - parent: kotm]
+Changes: ROM removals (in parent)
+
+Lansquenet 2004 (Shock Troopers - 2nd Squad bootleg) [name: lans2004 - parent: shocktr2]
+Changes: ROM removals (in parent)
+
+Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 1) [name: lastblad]
+Changes: ROM removals (in parent)
+
+Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi, The [name: lastbld2]
+Changes: ROM removals (in parent)
+
+Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 2) [name: lastbldh - parent: lastblad]
+Changes: ROM removals (in parent)
+
+The Last Soldier (Korean release of The Last Blade) [name: lastsold - parent: lastblad]
+Changes: ROM removals (in parent)
+
+League Bowling [name: lbowling]
+Changes: ROM removals (in parent)
+
+Legend of Success Joe / Ashitano Joe Densetsu [name: legendos]
+Changes: ROM removals (in parent)
+
+Last Resort [name: lresort]
+Changes: ROM removals (in parent)
+
+Mach Breakers - Numan Athletics 2 (Japan) [name: machbrkr]
+Changes: ROM removals
+
+Magical Drop II [name: magdrop2]
+Changes: ROM removals (in parent)
+
+Magical Drop III [name: magdrop3]
+Changes: ROM removals (in parent)
+
+Magician Lord (set 1) [name: maglord]
+Changes: ROM removals (in parent)
+
+Magician Lord (set 2) [name: maglordh - parent: maglord]
+Changes: ROM removals (in parent)
+
+Mahou Daisakusen (Japan) [name: mahoudai]
+Changes: ROM renames
+
+Mahjong Kyoretsuden [name: mahretsu]
+Changes: ROM removals (in parent)
+
+Manhattan 24 Bunsyo (Japan) [name: manhatan - parent: jailbrek]
+Changes: ROM renames, ROM merge details
+
+Marble Madness (set 1) [name: marble]
+Changes: ROM merge details
+
+Chibi Marukochan Deluxe Quiz [name: marukodq]
+Changes: ROM removals (in parent)
+
+Matrimelee / Shin Gouketsuji Ichizoku Toukon [name: matrim]
+Changes: ROM removals, ROM removals (in parent)
+
+< Megatouch III (9255-20-06 RON) [name: megat3a - parent: megat3]
+> Megatouch III (9255-20-06 RON, California version) [name: megat3ca - parent: megat3]
+
+< Megatouch III (9255-20-01 ROF) [name: megat3b - parent: megat3]
+> Megatouch III (9255-20-01 ROF, Standard version) [name: megat3a - parent: megat3]
+
+Megatouch 5 (9255-60-01 ROC) [name: megat5]
+Changes: ROM renames, ROM removals
+
+Money Puzzle Exchanger / Money Idol Exchanger [name: miexchng]
+Changes: ROM removals (in parent)
+
+Minnasanno Okagesamadesu [name: minasan]
+Changes: ROM removals (in parent)
+
+Syougi No Tatsujin - Master of Syougi [name: mosyougi]
+Changes: ROM removals (in parent)
+
+Metal Slug 4 Plus (bootleg) [name: ms4plus - parent: mslug4]
+Changes: ROM renames, ROM removals, ROM removals (in parent)
+
+Metal Slug 5 (JAMMA PCB) [name: ms5pcb]
+Changes: ROM renames, ROM removals
+
+Metal Slug 5 Plus (bootleg) [name: ms5plus - parent: mslug5]
+Changes: ROM renames, ROM removals (in parent)
+
+Moon Shuttle (Japan set 2) [name: mshutlj2 - parent: mshuttle]
+Changes: ROM removals (in parent)
+
+Moon Shuttle (Japan) [name: mshuttlj - parent: mshuttle]
+Changes: ROM removals (in parent)
+
+Metal Slug - Super Vehicle-001 [name: mslug]
+Changes: ROM removals (in parent)
+
+Metal Slug 2 - Super Vehicle-001/II [name: mslug2]
+Changes: ROM removals (in parent)
+
+Metal Slug 3 [name: mslug3]
+Changes: ROM removals (in parent)
+
+Metal Slug 6 (Metal Slug 3 bootleg) [name: mslug3b6 - parent: mslug3]
+Changes: ROM removals (in parent)
+
+Metal Slug 3 (not encrypted) [name: mslug3h - parent: mslug3]
+Changes: ROM removals (in parent)
+
+Metal Slug 4 [name: mslug4]
+Changes: ROM removals, ROM removals (in parent)
+
+Metal Slug 5 [name: mslug5]
+Changes: ROM removals, ROM removals (in parent)
+
+Metal Slug 5 (AES Cart) [name: mslug5h - parent: mslug5]
+Changes: ROM removals (in parent)
+
+Metal Slug X - Super Vehicle-001 [name: mslugx]
+Changes: ROM removals (in parent)
+
+Mutation Nation [name: mutnat]
+Changes: ROM removals (in parent)
+
+< Marvel Vs. Capcom: Clash of Super Heroes (Euro 980112) [name: mvsc]
+> Marvel Vs. Capcom: Clash of Super Heroes (Euro 980112) [name: mvscr1 - parent: mvsc]
+Changes: ROM merge details
+
+Marvel Vs. Capcom: Clash of Super Heroes (Asia 980123) [name: mvsca - parent: mvsc]
+Changes: ROM merge details
+
+Marvel Vs. Capcom: Clash of Super Heroes (Asia 980112) [name: mvscar1 - parent: mvsc]
+Changes: ROM merge details
+
+Marvel Vs. Capcom: Clash of Super Heroes (Brazil 980123) [name: mvscb - parent: mvsc]
+Changes: ROM merge details
+
+Marvel Vs. Capcom: Clash of Super Heroes (Hispanic 980123) [name: mvsch - parent: mvsc]
+Changes: ROM merge details
+
+Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123) [name: mvscj - parent: mvsc]
+Changes: ROM merge details
+
+Marvel Vs. Capcom: Clash of Super Heroes (Japan 980112) [name: mvscjr1 - parent: mvsc]
+Changes: ROM merge details
+
+Marvel Vs. Capcom: Clash of Super Heroes (USA 980123) [name: mvscu - parent: mvsc]
+Changes: ROM merge details
+
+NAM-1975 [name: nam1975]
+Changes: ROM removals (in parent)
+
+< NBA Jam TE (rev 1.0 01/17/94) [name: nbajamt1 - parent: nbajam]
+> NBA Jam TE (rev 1.0 01/17/94) [name: nbajamt1 - parent: nbajamte]
+Changes: ROM merge details
+
+< NBA Jam TE (rev 2.0 01/28/94) [name: nbajamt2 - parent: nbajam]
+> NBA Jam TE (rev 2.0 01/28/94) [name: nbajamt2 - parent: nbajamte]
+Changes: ROM merge details
+
+< NBA Jam TE (rev 3.0 03/04/94) [name: nbajamt3 - parent: nbajam]
+> NBA Jam TE (rev 3.0 03/04/94) [name: nbajamt3 - parent: nbajamte]
+Changes: ROM merge details
+
+< NBA Jam TE (rev 4.0 03/23/94) [name: nbajamte - parent: nbajam]
+> NBA Jam TE (rev 4.0 03/23/94) [name: nbajamte]
+Changes: ROM merge details
+
+Ninja Combat (set 1) [name: ncombat]
+Changes: ROM removals (in parent)
+
+Ninja Combat (set 2) [name: ncombath - parent: ncombat]
+Changes: ROM removals (in parent)
+
+Ninja Commando [name: ncommand]
+Changes: ROM removals (in parent)
+
+Nebulas Ray (World) [name: nebulray]
+Changes: ROM removals
+
+Nebulas Ray (Japan) [name: nebulryj - parent: nebulray]
+Changes: ROM removals (in parent)
+
+Neo Bomberman [name: neobombe]
+Changes: ROM removals (in parent)
+
+Neo-Geo Cup '98 - The Road to the Victory [name: neocup98]
+Changes: ROM removals (in parent)
+
+Neo Drift Out - New Technology [name: neodrift]
+Changes: ROM removals (in parent)
+
+Neo-Geo [name: neogeo]
+Changes: ROM removals
+
+Neo Mr. Do! [name: neomrdo]
+Changes: ROM removals (in parent)
+
+Ninja Master's - haoh-ninpo-cho [name: ninjamas]
+Changes: ROM removals (in parent)
+
+Nightmare in the Dark [name: nitd]
+Changes: ROM removals (in parent)
+
+Nightmare in the Dark (bootleg) [name: nitdbl - parent: nitd]
+Changes: ROM renames, ROM removals (in parent)
+
+Numan Athletics (World) [name: numanath]
+Changes: ROM removals
+
+Numan Athletics (Japan) [name: numanatj - parent: numanath]
+Changes: ROM removals (in parent)
+
+Outfoxies (Japan) [name: outfxesj - parent: outfxies]
+Changes: ROM removals (in parent)
+
+Outfoxies [name: outfxies]
+Changes: ROM removals
+
+Over Top [name: overtop]
+Changes: ROM removals (in parent)
+
+Pairs (V1.2, 09/30/94) [name: pairs]
+Changes: ROM renames
+
+Pairs (09/07/94) [name: pairsa - parent: pairs]
+Changes: ROM renames
+
+Panic Bomber [name: panicbom]
+Changes: ROM removals (in parent)
+
+Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo) [name: pbobbl2n]
+Changes: ROM removals (in parent)
+
+Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 1) [name: pbobblen]
+Changes: ROM removals (in parent)
+
+Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 2) [name: pbobblna - parent: pbobblen]
+Changes: ROM removals (in parent)
+
+Peter Pack-Rat [name: peterpak]
+Changes: ROM merge details
+
+Pleasure Goal / Futsal - 5 on 5 Mini Soccer [name: pgoal]
+Changes: ROM removals (in parent)
+
+Pochi and Nyaa [name: pnyaa]
+Changes: ROM removals, ROM removals (in parent)
+
+Pop 'n Bounce / Gapporin [name: popbounc]
+Changes: ROM removals (in parent)
+
+< Jack Potten's Poker (bootleg2) [name: pottnpkb - parent: pmpoker]
+> Jack Potten's Poker (set 3) [name: potnpkrb - parent: pottnpkr]
+
+< Jack Potten's Poker (bootleg) [name: pottnpkr - parent: pmpoker]
+> Jack Potten's Poker (set 4) [name: potnpkrc - parent: pottnpkr]
+
+Prehistoric Isle 2 [name: preisle2]
+Changes: ROM removals (in parent)
+
+Power Spikes II [name: pspikes2]
+Changes: ROM removals (in parent)
+
+Point Blank [name: ptblank]
+Changes: ROM removals
+
+Pulstar [name: pulstar]
+Changes: ROM removals (in parent)
+
+Puzzle De Pon! R! [name: puzzldpr - parent: puzzledp]
+Changes: ROM removals (in parent)
+
+Puzzle De Pon! [name: puzzledp]
+Changes: ROM removals (in parent)
+
+Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 [name: quizdai2]
+Changes: ROM removals (in parent)
+
+Quiz Daisousa Sen - The Last Count Down [name: quizdais]
+Changes: ROM removals (in parent)
+
+Quiz King of Fighters [name: quizkof]
+Changes: ROM removals (in parent)
+
+Nettou! Gekitou! Quiztou!! (Japan) [name: quiztou]
+Changes: ROM removals
+
+Ragnagard / Shin-Oh-Ken [name: ragnagrd]
+Changes: ROM removals (in parent)
+
+The Great Ragtime Show (Japan v1.5, 92.12.07) [name: ragtime - parent: boogwing]
+Changes: ROM renames, ROM renames (in parent), ROM merge details
+
+< Raiden DX (set 2) [name: raidndxa - parent: raidndx]
+> Raiden DX (Tuning license) [name: raidndxt - parent: raidndx]
+Changes: ROM renames, ROM renames (in parent), ROM merge details
+
+Real Bout Fatal Fury / Real Bout Garou Densetsu [name: rbff1]
+Changes: ROM removals (in parent)
+
+Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision) [name: rbff1a - parent: rbff1]
+Changes: ROM removals (in parent)
+
+Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 1) [name: rbff2]
+Changes: ROM removals (in parent)
+
+Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 2) [name: rbff2h - parent: rbff2]
+Changes: ROM removals (in parent)
+
+Real Bout Fatal Fury 2 - The Newcomers (Korean release) [name: rbff2k - parent: rbff2]
+Changes: ROM removals (in parent)
+
+Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special [name: rbffspec]
+Changes: ROM removals (in parent)
+
+Riding Hero (set 1) [name: ridhero]
+Changes: ROM removals (in parent)
+
+Riding Hero (set 2) [name: ridheroh - parent: ridhero]
+Changes: ROM removals (in parent)
+
+Road Blasters (upright, rev 4) [name: roadblst]
+Changes: ROM merge details
+
+Road Runner (rev 2) [name: roadrunn]
+Changes: ROM merge details
+
+Robo Army [name: roboarmy]
+Changes: ROM removals (in parent)
+
+Rage of the Dragons [name: rotd]
+Changes: ROM removals, ROM removals (in parent)
+
+Strikers 1945 Plus [name: s1945p]
+Changes: ROM removals (in parent)
+
+Samurai Shodown V Special / Samurai Spirits Zero Special (set 2, censored) [name: samsh5sh - parent: samsh5sp]
+Changes: ROM removals (in parent)
+
+Samurai Shodown V Special / Samurai Spirits Zero Special (set 3, less censored) [name: samsh5sn - parent: samsh5sp]
+Changes: ROM removals (in parent)
+
+Samurai Shodown V Special / Samurai Spirits Zero Special (set 1, uncensored) [name: samsh5sp]
+Changes: ROM removals, ROM removals (in parent)
+
+Samurai Shodown / Samurai Spirits (set 1) [name: samsho]
+Changes: ROM removals (in parent)
+
+Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen [name: samsho2]
+Changes: ROM removals (in parent)
+
+Samurai Shodown III / Samurai Spirits - Zankurou Musouken (set 1) [name: samsho3]
+Changes: ROM removals, ROM removals (in parent)
+
+Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin [name: samsho4]
+Changes: ROM removals (in parent)
+
+Samurai Shodown V / Samurai Spirits Zero (set 1) [name: samsho5]
+Changes: ROM removals, ROM removals (in parent)
+
+Samurai Shodown V / Samurai Spirits Zero (bootleg) [name: samsho5b - parent: samsho5]
+Changes: ROM renames, ROM removals (in parent)
+
+Samurai Shodown V / Samurai Spirits Zero (set 2) [name: samsho5h - parent: samsho5]
+Changes: ROM removals (in parent)
+
+Samurai Shodown / Samurai Spirits (set 2) [name: samshoh - parent: samsho]
+Changes: ROM removals (in parent)
+
+Savage Reign / Fu'un Mokushiroku - kakutou sousei [name: savagere]
+Changes: ROM removals (in parent)
+
+< Super Basketball (version G) [name: sbasketb]
+> Super Basketball (version G, encrypted) [name: sbasketg - parent: sbasketb]
+Changes: ROM renames, ROM merge details
+
+< Super Basketball (version E) [name: sbasketo - parent: sbasketb]
+> Super Basketball (version E, encrypted) [name: sbaskete - parent: sbasketb]
+Changes: ROM renames (in parent), ROM merge details
+
+Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu [name: sdodgeb]
+Changes: ROM removals (in parent)
+
+Sengoku / Sengoku Denshou (set 2) [name: sengokh - parent: sengoku]
+Changes: ROM removals (in parent)
+
+Sengoku / Sengoku Denshou (set 1) [name: sengoku]
+Changes: ROM removals (in parent)
+
+Sengoku 2 / Sengoku Denshou 2 [name: sengoku2]
+Changes: ROM removals (in parent)
+
+Sengoku 3 [name: sengoku3]
+Changes: ROM removals (in parent)
+
+Street Fighter Zero 3 Upper [name: sfz3ugd]
+Changes: ROM removals
+
+Shock Troopers - 2nd Squad [name: shocktr2]
+Changes: ROM removals (in parent)
+
+Shock Troopers (set 2) [name: shocktra - parent: shocktro]
+Changes: ROM removals (in parent)
+
+Shock Troopers (set 1) [name: shocktro]
+Changes: ROM removals (in parent)
+
+< Sonic Wings Limited (JAPAN) [name: sncwgltd]
+> Sonic Wings Limited (JAPAN) [name: sncwgltd - parent: aerofgts]
+Changes: ROM merge details
+
+Soccer Brawl (set 2) [name: socbrala - parent: socbrawl]
+Changes: ROM removals (in parent)
+
+Soccer Brawl (set 1) [name: socbrawl]
+Changes: ROM removals (in parent)
+
+Aero Fighters 2 / Sonic Wings 2 [name: sonicwi2]
+Changes: ROM removals, ROM removals (in parent)
+
+Aero Fighters 3 / Sonic Wings 3 [name: sonicwi3]
+Changes: ROM removals (in parent)
+
+Spin Master / Miracle Adventure [name: spinmast]
+Changes: ROM removals (in parent)
+
+Super Sidekicks / Tokuten Ou [name: ssideki]
+Changes: ROM removals (in parent)
+
+Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football [name: ssideki2]
+Changes: ROM removals (in parent)
+
+Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi [name: ssideki3]
+Changes: ROM removals (in parent)
+
+Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero, The [name: ssideki4]
+Changes: ROM removals (in parent)
+
+Sorcer Striker (World) [name: sstriker - parent: mahoudai]
+Changes: ROM renames, ROM renames (in parent)
+
+Sorcer Striker (World, alt) [name: sstrikra - parent: mahoudai]
+Changes: ROM renames, ROM renames (in parent)
+
+Stakes Winner / Stakes Winner - GI kinzen seihae no michi [name: stakwin]
+Changes: ROM removals (in parent)
+
+Stakes Winner 2 [name: stakwin2]
+Changes: ROM removals (in parent)
+
+Street Hoop / Street Slam / Dunk Dream [name: strhoop]
+Changes: ROM removals (in parent)
+
+The Super Spy [name: superspy]
+Changes: ROM removals (in parent)
+
+SNK vs. CAPCOM SVC CHAOS [name: svc]
+Changes: ROM removals, ROM removals (in parent)
+
+SNK vs. CAPCOM SVC CHAOS (bootleg) [name: svcboot - parent: svc]
+Changes: ROM removals (in parent)
+
+SNK vs. CAPCOM SVC CHAOS (JAMMA PCB, set 1) [name: svcpcb]
+Changes: ROM removals
+
+SNK vs. CAPCOM SVC CHAOS (JAMMA PCB, set 2) [name: svcpcba - parent: svcpcb]
+Changes: ROM removals (in parent)
+
+SNK vs. CAPCOM SVC CHAOS Plus (bootleg set 1) [name: svcplus - parent: svc]
+Changes: ROM removals (in parent)
+
+SNK vs. CAPCOM SVC CHAOS Plus (bootleg set 2) [name: svcplusa - parent: svc]
+Changes: ROM removals (in parent)
+
+SNK vs. CAPCOM SVC CHAOS Super Plus (bootleg) [name: svcsplus - parent: svc]
+Changes: ROM removals (in parent)
+
+Super World Stadium '95 (Japan) [name: sws95]
+Changes: ROM removals
+
+Super World Stadium '96 (Japan) [name: sws96]
+Changes: ROM removals
+
+Super World Stadium '97 (Japan) [name: sws97]
+Changes: ROM removals
+
+< Tengai / Sengoku Blade: Sengoku Ace Episode II [name: tengai]
+> Sengoku Blade: Sengoku Ace Episode II / Tengai [name: tengaij - parent: tengai]
+Changes: ROM merge details
+
+The NewZealand Story (World, newer) [name: tnzs]
+Changes: ROM renames
+
+The NewZealand Story (Japan) [name: tnzsj - parent: tnzs]
+Changes: ROM merge details
+
+Top Hunter - Roddy & Cathy (set 2) [name: tophunta - parent: tophuntr]
+Changes: ROM removals (in parent)
+
+Top Hunter - Roddy & Cathy (set 1) [name: tophuntr]
+Changes: ROM removals (in parent)
+
+Top Player's Golf [name: tpgolf]
+Changes: ROM removals (in parent)
+
+Thrash Rally [name: trally]
+Changes: ROM removals (in parent)
+
+Neo Turf Masters / Big Tournament Golf [name: turfmast]
+Changes: ROM removals (in parent)
+
+Twinkle Star Sprites [name: twinspri]
+Changes: ROM removals (in parent)
+
+Tecmo World Soccer '96 [name: tws96]
+Changes: ROM removals (in parent)
+
+Viewpoint [name: viewpoin]
+Changes: ROM removals (in parent)
+
+V-Liner (set 1) [name: vliner]
+Changes: ROM renames, ROM removals (in parent)
+
+V-Liner (set 2) [name: vlinero - parent: vliner]
+Changes: ROM renames, ROM renames (in parent), ROM removals (in parent)
+
+< Virtual On Cyber Troopers (Japan, Rev B) [name: von]
+> Virtual On Cyber Troopers (Japan, Revision B) [name: vonj - parent: von]
+Changes: ROM merge details
+
+< Virtual On Cyber Troopers (US, Rev B) [name: vonusa - parent: von]
+> Virtual On Cyber Troopers (US, Revision B) [name: von]
+Changes: ROM merge details
+
+J-League Soccer V-Shoot [name: vshoot]
+Changes: ROM removals
+
+Waku Waku 7 [name: wakuwak7]
+Changes: ROM removals (in parent)
+
+Welltris (World?, 2 players) [name: welltris]
+Changes: ROM removals
+
+World Heroes (set 1) [name: wh1]
+Changes: ROM removals (in parent)
+
+World Heroes (set 2) [name: wh1h - parent: wh1]
+Changes: ROM removals (in parent)
+
+World Heroes (set 3) [name: wh1ha - parent: wh1]
+Changes: ROM removals (in parent)
+
+World Heroes 2 [name: wh2]
+Changes: ROM removals (in parent)
+
+World Heroes 2 Jet (set 1) [name: wh2j]
+Changes: ROM removals (in parent)
+
+World Heroes 2 Jet (set 2) [name: wh2jh - parent: wh2j]
+Changes: ROM removals (in parent)
+
+World Heroes Perfect [name: whp]
+Changes: ROM removals (in parent)
+
+Windjammers / Flying Power Disc [name: wjammers]
+Changes: ROM removals (in parent)
+
+< World Wars (World) [name: worldwar - parent: bermudat]
+> World Wars (World?) [name: worldwar]
+Changes: ROM merge details
+
+WWF WrestleFest (US set 1) [name: wwfwfest]
+Changes: ROM renames
+
+WWF WrestleFest (US Tecmo) [name: wwfwfsta - parent: wwfwfest]
+Changes: ROM renames (in parent)
+
+WWF WrestleFest (US bootleg) [name: wwfwfstb - parent: wwfwfest]
+Changes: ROM merge details
+
+WWF WrestleFest (Japan) [name: wwfwfstj - parent: wwfwfest]
+Changes: ROM renames, ROM renames (in parent)
+
+X-Day 2 (Japan) [name: xday2]
+Changes: ROM removals
+
+Zed Blade / Operation Ragnarok [name: zedblade]
+Changes: ROM removals (in parent)
+
+Zintrick / Oshidashi Zentrix (hack / bootleg) [name: zintrckb]
+Changes: ROM renames, ROM removals (in parent)
+
+Zupapa! [name: zupapa]
+Changes: ROM removals (in parent)
+
+--------------- Games requiring additional ROMs/Disks/Samples ----------------
+
+2020 Super Baseball (set 1) [name: 2020bb]
+Changes: ROM additions (in parent)
+
+2020 Super Baseball (set 2) [name: 2020bba - parent: 2020bb]
+Changes: ROM additions (in parent)
+
+2020 Super Baseball (set 3) [name: 2020bbh - parent: 2020bb]
+Changes: ROM additions (in parent)
+
+3 Count Bout / Fire Suplex [name: 3countb]
+Changes: ROM additions (in parent)
+
+Action Fighter (FD1089A 317-0018) [name: afighter]
+Changes: ROM additions
+
+Air Trix [name: airtrix]
+Changes: ROM additions
+
+Alex Kidd: The Lost Stars (set 1, FD1089A 317-0021) [name: alexkid1 - parent: alexkidd]
+Changes: ROM additions
+
+Alien Syndrome (set 1, System 16A, FD1089A 317-0033) [name: aliensy1 - parent: aliensyn]
+Changes: ROM additions
+
+Alien Syndrome (set 2, System 16A, FD1089A 317-0033) [name: aliensy2 - parent: aliensyn]
+Changes: ROM additions
+
+Alien Syndrome (set 3, System 16B, FD1089A 317-0033) [name: aliensy3 - parent: aliensyn]
+Changes: ROM additions
+
+Alien Syndrome (set 5, System 16A, FD1089B 317-0037) [name: aliensy5 - parent: aliensyn]
+Changes: ROM additions
+
+Alpha Mission II / ASO II - Last Guardian [name: alpham2]
+Changes: ROM additions (in parent)
+
+Andro Dunos [name: androdun]
+Changes: ROM additions (in parent)
+
+Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku [name: aodk]
+Changes: ROM additions (in parent)
+
+Art of Fighting / Ryuuko no Ken [name: aof]
+Changes: ROM additions (in parent)
+
+Art of Fighting 2 / Ryuuko no Ken 2 (set 1) [name: aof2]
+Changes: ROM additions (in parent)
+
+Art of Fighting 2 / Ryuuko no Ken 2 (set 2) [name: aof2a - parent: aof2]
+Changes: ROM additions (in parent)
+
+Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden [name: aof3]
+Changes: ROM additions (in parent)
+
+Art of Fighting 3 - The Path of the Warrior (Korean release) [name: aof3k - parent: aof3]
+Changes: ROM additions (in parent)
+
+Tournament Arkanoid (US) [name: arkatour - parent: arkanoid]
+Changes: ROM additions
+
+ASO - Armored Scrum Object [name: aso]
+Changes: ROM additions
+
+Astron Belt [name: astron]
+Changes: ROM additions
+
+Astron Belt (Pioneer LDV1000) [name: astronp - parent: astron]
+Changes: ROM additions (in parent)
+
+Aurail (set 2, World, FD1089B 317-0168) [name: aurail1 - parent: aurail]
+Changes: ROM additions
+
+Aurail (set 1, Japan, FD1089A 317-0167) [name: aurailj - parent: aurail]
+Changes: ROM additions
+
+Bakatonosama Mahjong Manyuki [name: bakatono]
+Changes: ROM additions (in parent)
+
+Bang Bead [name: bangbead]
+Changes: ROM additions (in parent)
+
+Blue's Journey / Raguy [name: bjourney]
+Changes: ROM additions (in parent)
+
+Blazing Star [name: blazstar]
+Changes: ROM additions (in parent)
+
+Breakers [name: breakers]
+Changes: ROM additions (in parent)
+
+Breakers Revenge [name: breakrev - parent: breakers]
+Changes: ROM additions (in parent)
+
+Baseball Stars Professional [name: bstars]
+Changes: ROM additions (in parent)
+
+Baseball Stars 2 [name: bstars2]
+Changes: ROM additions (in parent)
+
+Bubble Symphony (bootleg with OKI6295) [name: bubsympb - parent: bublbob2]
+Changes: ROM additions
+
+Buggy Boy/Speed Buggy (Cockpit) [name: buggyboy - parent: buggybjr]
+Changes: ROM additions (in parent)
+
+Bull Fighter [name: bullfgtr]
+Changes: ROM additions
+
+Bull Fighter (Sega) [name: bullfgts - parent: bullfgtr]
+Changes: ROM additions (in parent)
+
+Burning Fight (set 1) [name: burningf]
+Changes: ROM additions (in parent)
+
+Burning Fight (set 2) [name: burningh - parent: burningf]
+Changes: ROM additions (in parent)
+
+Carrier Air Wing (World 901012) [name: cawing]
+Changes: ROM additions
+
+U.S. Navy (Japan 901012) [name: cawingj - parent: cawing]
+Changes: ROM additions
+
+Carrier Air Wing (World 901009) [name: cawingr1 - parent: cawing]
+Changes: ROM additions (in parent)
+
+Carrier Air Wing (US 901012) [name: cawingu - parent: cawing]
+Changes: ROM additions (in parent)
+
+Choplifter (bootleg) [name: chplftbl - parent: chplft]
+Changes: ROM additions
+
+Cliff Hanger (Alt) [name: cliffhga]
+Changes: ROM additions
+
+Cliff Hanger [name: cliffhgr]
+Changes: ROM additions
+
+Cobra Command (M.A.C.H. 3 hardware) [name: cobram3]
+Changes: ROM additions
+
+Cobra Command (Sega LaserDisc Hardware) [name: cobraseg - parent: astron]
+Changes: ROM additions (in parent)
+
+Crossed Swords [name: crsword]
+Changes: ROM additions (in parent)
+
+Crouching Tiger Hidden Dragon 2003 Super Plus alternate (The King of Fighters 2001 bootleg) [name: ct2k3sa - parent: kof2001]
+Changes: ROM additions (in parent)
+
+Crouching Tiger Hidden Dragon 2003 Super Plus (The King of Fighters 2001 bootleg) [name: ct2k3sp - parent: kof2001]
+Changes: ROM additions (in parent)
+
+Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg) [name: cthd2003 - parent: kof2001]
+Changes: ROM additions (in parent)
+
+Captain Tomaday [name: ctomaday]
+Changes: ROM additions (in parent)
+
+Cube Quest [name: cubeqst]
+Changes: ROM additions
+
+Capcom Vs. SNK 2 [name: cvs2gd]
+Changes: disk additions
+
+Cyber-Lip [name: cyberlip]
+Changes: ROM additions (in parent)
+
+Double Dealer [name: ddealer]
+Changes: ROM additions
+
+Defense (System 16B, FD1089A 317-0028) [name: defense - parent: sdi]
+Changes: ROM additions
+
+Digger Man (prototype) [name: diggerma]
+Changes: ROM additions (in parent)
+
+Dragon's Lair (US Rev. F2) [name: dlair]
+Changes: ROM additions
+
+Dragon's Lair (US Rev. D, Pioneer LD-V1000) [name: dlaird - parent: dlair]
+Changes: ROM additions (in parent)
+
+Dragon's Lair (US Rev. E) [name: dlaire - parent: dlair]
+Changes: ROM additions (in parent)
+
+Dragon's Lair (US Rev. F) [name: dlairf - parent: dlair]
+Changes: ROM additions (in parent)
+
+Double Dragon (Neo-Geo) [name: doubledr]
+Changes: ROM additions (in parent)
+
+Dunk Shot (FD1089A 317-0022) [name: dunkshot]
+Changes: ROM additions
+
+Eight Man [name: eightman]
+Changes: ROM additions (in parent)
+
+Emeraldia (World) [name: emeralda]
+Changes: ROM additions
+
+Enduro Racer (YM2151, FD1089B 317-0013A) [name: enduror]
+Changes: ROM additions
+
+Enduro Racer (YM2203, FD1089B 317-0013A) [name: enduror1 - parent: enduror]
+Changes: ROM additions (in parent)
+
+Equites [name: equites]
+Changes: ROM additions
+
+Equites (Sega) [name: equitess - parent: equites]
+Changes: ROM additions (in parent)
+
+Esh's Aurunmilla (set 1) [name: esh]
+Changes: ROM additions
+
+Esh's Aurunmilla (Set 2) [name: esha - parent: esh]
+Changes: ROM additions (in parent)
+
+Esh's Aurunmilla (Set 3) [name: eshb - parent: esh]
+Changes: ROM additions (in parent)
+
+Exciting Soccer II [name: exctscc2]
+Changes: ROM additions
+
+Fatal Fury Special / Garou Densetsu Special (set 2) [name: fatfursa - parent: fatfursp]
+Changes: ROM additions (in parent)
+
+Fatal Fury Special / Garou Densetsu Special (set 1) [name: fatfursp]
+Changes: ROM additions (in parent)
+
+Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai [name: fatfury1]
+Changes: ROM additions (in parent)
+
+Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai [name: fatfury2]
+Changes: ROM additions (in parent)
+
+Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai [name: fatfury3]
+Changes: ROM additions (in parent)
+
+Football Frenzy [name: fbfrenzy]
+Changes: ROM additions (in parent)
+
+Fight Fever (set 1) [name: fightfev]
+Changes: ROM additions (in parent)
+
+Fight Fever (set 2) [name: fightfva - parent: fightfev]
+Changes: ROM additions (in parent)
+
+Battle Flip Shot [name: flipshot]
+Changes: ROM additions (in parent)
+
+Fighters Swords (Korean release of Samurai Shodown III) [name: fswords - parent: samsho3]
+Changes: ROM additions (in parent)
+
+Galaxy Fight - Universal Warriors [name: galaxyfg]
+Changes: ROM additions (in parent)
+
+Galaxy Ranger [name: galaxyr]
+Changes: ROM additions
+
+Galaxy Ranger (Pioneer LDV1000) [name: galaxyrp - parent: galaxyr]
+Changes: ROM additions (in parent)
+
+GameCristal [name: gamecstl]
+Changes: ROM additions
+
+Ganryu / Musashi Ganryuki [name: ganryu]
+Changes: ROM additions (in parent)
+
+Garou - Mark of the Wolves (set 1) [name: garou]
+Changes: ROM additions (in parent)
+
+Garou - Mark of the Wolves (bootleg) [name: garoubl - parent: garou]
+Changes: ROM additions (in parent)
+
+Garou - Mark of the Wolves (set 2) [name: garouo - parent: garou]
+Changes: ROM additions (in parent)
+
+Garou - Mark of the Wolves (prototype) [name: garoup - parent: garou]
+Changes: ROM additions (in parent)
+
+Ghostlop (prototype) [name: ghostlop]
+Changes: ROM additions (in parent)
+
+Goal To Go [name: goaltogo]
+Changes: ROM additions
+
+Goal! Goal! Goal! [name: goalx3]
+Changes: ROM additions (in parent)
+
+Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer [name: gowcaizr]
+Changes: ROM additions (in parent)
+
+Ghost Pilots (set 1) [name: gpilots]
+Changes: ROM additions (in parent)
+
+Ghost Pilots (set 2) [name: gpilotsh - parent: gpilots]
+Changes: ROM additions (in parent)
+
+GP World [name: gpworld]
+Changes: ROM additions
+
+Gradius 4: Fukkatsu [name: gradius4]
+Changes: ROM additions
+
+Great Sluggers '94 [name: gslgr94u]
+Changes: ROM additions
+
+Great Sluggers (Japan) [name: gslugrsj]
+Changes: ROM additions
+
+Gun Bullet (Japan) [name: gunbulet - parent: ptblank]
+Changes: ROM additions (in parent)
+
+Gururin [name: gururin]
+Changes: ROM additions (in parent)
+
+Guwange (Japan, Master Ver. 99/06/24) [name: guwange]
+Changes: ROM additions
+
+Indiana Jones and the Temple of Doom (set 2) [name: indytem2 - parent: indytemp]
+Changes: ROM additions (in parent)
+
+Indiana Jones and the Temple of Doom (set 3) [name: indytem3 - parent: indytemp]
+Changes: ROM additions (in parent)
+
+Indiana Jones and the Temple of Doom (set 4) [name: indytem4 - parent: indytemp]
+Changes: ROM additions (in parent)
+
+Indiana Jones and the Temple of Doom (Cocktail) [name: indytemc - parent: indytemp]
+Changes: ROM additions
+
+Indiana Jones and the Temple of Doom (German) [name: indytemd - parent: indytemp]
+Changes: ROM additions (in parent)
+
+Indiana Jones and the Temple of Doom (set 1) [name: indytemp]
+Changes: ROM additions (in parent)
+
+The Irritating Maze / Ultra Denryu Iraira Bou [name: irrmaze]
+Changes: ROM additions (in parent)
+
+Interstellar Laser Fantasy [name: istellar]
+Changes: ROM additions
+
+Jail Break [name: jailbrek]
+Changes: ROM additions
+
+Jyanshin Densetsu - Quest of Jongmaster [name: janshin]
+Changes: ROM additions (in parent)
+
+Jockey Grand Prix [name: jockeygp]
+Changes: ROM additions (in parent)
+
+Puzzled / Joy Joy Kid [name: joyjoy]
+Changes: ROM additions (in parent)
+
+Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den [name: kabukikl]
+Changes: ROM additions (in parent)
+
+Karnov's Revenge / Fighter's History Dynamite [name: karnovr]
+Changes: ROM additions (in parent)
+
+The King of Fighters 10th Anniversary Extra Plus (The King of Fighters 2002 bootleg) [name: kf10thep - parent: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2002 Magic Plus (bootleg) [name: kf2k2mp - parent: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2002 Magic Plus II (bootleg) [name: kf2k2mp2 - parent: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2002 Plus (bootleg set 2) [name: kf2k2pla - parent: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2002 Plus (bootleg set 1) [name: kf2k2pls - parent: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2003 (bootleg set 1) [name: kf2k3bl - parent: kof2003]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2003 (bootleg set 2) [name: kf2k3bla - parent: kof2003]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2003 (Japan, JAMMA PCB) [name: kf2k3pcb]
+Changes: ROM additions
+
+The King of Fighters 2004 Plus / Hero (The King of Fighters 2003 bootleg) [name: kf2k3pl - parent: kof2003]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2004 Ultra Plus (The King of Fighters 2003 bootleg) [name: kf2k3upl - parent: kof2003]
+Changes: ROM additions (in parent)
+
+The King of Fighters 10th Anniversary 2005 Unique (The King of Fighters 2002 bootleg) [name: kf2k5uni - parent: kof2002]
+Changes: ROM additions (in parent)
+
+Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle [name: kizuna]
+Changes: ROM additions (in parent)
+
+Knuckle Heads (World) [name: knckhead]
+Changes: ROM additions
+
+Knuckle Heads (Japan) [name: knckhedj - parent: knckhead]
+Changes: ROM additions (in parent)
+
+The King of Fighters 10th Anniversary (The King of Fighters 2002 bootleg) [name: kof10th - parent: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2000 [name: kof2000]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2000 (not encrypted) [name: kof2000n - parent: kof2000]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2001 (set 1) [name: kof2001]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2001 (set 2) [name: kof2001h - parent: kof2001]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2002 [name: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters 2003 [name: kof2003]
+Changes: ROM additions (in parent)
+
+The King of Fighters Special Edition 2004 (The King of Fighters 2002 bootleg) [name: kof2k4se - parent: kof2002]
+Changes: ROM additions (in parent)
+
+The King of Fighters '94 [name: kof94]
+Changes: ROM additions (in parent)
+
+The King of Fighters '95 (set 1) [name: kof95]
+Changes: ROM additions, ROM additions (in parent)
+
+The King of Fighters '96 (set 1) [name: kof96]
+Changes: ROM additions (in parent)
+
+The King of Fighters '96 (set 2) [name: kof96h - parent: kof96]
+Changes: ROM additions (in parent)
+
+The King of Fighters '97 (set 1) [name: kof97]
+Changes: ROM additions (in parent)
+
+The King of Fighters '97 (set 2) [name: kof97a - parent: kof97]
+Changes: ROM additions (in parent)
+
+The King of Fighters '97 Plus (bootleg) [name: kof97pls - parent: kof97]
+Changes: ROM additions (in parent)
+
+The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends [name: kof98]
+Changes: ROM additions (in parent)
+
+The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board) [name: kof98k - parent: kof98]
+Changes: ROM additions (in parent)
+
+The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (not encrypted) [name: kof98n - parent: kof98]
+Changes: ROM additions (in parent)
+
+The King of Fighters '99 - Millennium Battle (set 1) [name: kof99]
+Changes: ROM additions (in parent)
+
+The King of Fighters '99 - Millennium Battle (set 2) [name: kof99a - parent: kof99]
+Changes: ROM additions (in parent)
+
+The King of Fighters '99 - Millennium Battle (earlier) [name: kof99e - parent: kof99]
+Changes: ROM additions (in parent)
+
+The King of Fighters '99 - Millennium Battle (not encrypted) [name: kof99n - parent: kof99]
+Changes: ROM additions (in parent)
+
+The King of Fighters '99 - Millennium Battle (prototype) [name: kof99p - parent: kof99]
+Changes: ROM additions (in parent)
+
+King of Gladiator (The King of Fighters '97 bootleg) [name: kog - parent: kof97]
+Changes: ROM additions (in parent)
+
+King of the Monsters (set 1) [name: kotm]
+Changes: ROM additions (in parent)
+
+King of the Monsters 2 - The Next Thing [name: kotm2]
+Changes: ROM additions (in parent)
+
+King of the Monsters (set 2) [name: kotmh - parent: kotm]
+Changes: ROM additions (in parent)
+
+Lansquenet 2004 (Shock Troopers - 2nd Squad bootleg) [name: lans2004 - parent: shocktr2]
+Changes: ROM additions (in parent)
+
+Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 1) [name: lastblad]
+Changes: ROM additions (in parent)
+
+Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi, The [name: lastbld2]
+Changes: ROM additions (in parent)
+
+Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 2) [name: lastbldh - parent: lastblad]
+Changes: ROM additions (in parent)
+
+The Last Soldier (Korean release of The Last Blade) [name: lastsold - parent: lastblad]
+Changes: ROM additions (in parent)
+
+League Bowling [name: lbowling]
+Changes: ROM additions (in parent)
+
+Legend of Success Joe / Ashitano Joe Densetsu [name: legendos]
+Changes: ROM additions (in parent)
+
+Laser Grand Prix [name: lgp]
+Changes: ROM additions
+
+Last Resort [name: lresort]
+Changes: ROM additions (in parent)
+
+M.A.C.H. 3 [name: mach3]
+Changes: ROM additions
+
+Mach Breakers - Numan Athletics 2 (Japan) [name: machbrkr]
+Changes: ROM additions
+
+Magical Drop II [name: magdrop2]
+Changes: ROM additions (in parent)
+
+Magical Drop III [name: magdrop3]
+Changes: ROM additions (in parent)
+
+Magician Lord (set 1) [name: maglord]
+Changes: ROM additions (in parent)
+
+Magician Lord (set 2) [name: maglordh - parent: maglord]
+Changes: ROM additions (in parent)
+
+Mahjong Kyoretsuden [name: mahretsu]
+Changes: ROM additions (in parent)
+
+Marble Madness (set 1) [name: marble]
+Changes: ROM additions (in parent)
+
+Marble Madness (set 2) [name: marble2 - parent: marble]
+Changes: ROM additions (in parent)
+
+Marble Madness (set 3) [name: marble3 - parent: marble]
+Changes: ROM additions (in parent)
+
+Marble Madness (set 4) [name: marble4 - parent: marble]
+Changes: ROM additions (in parent)
+
+Chibi Marukochan Deluxe Quiz [name: marukodq]
+Changes: ROM additions (in parent)
+
+Matrimelee / Shin Gouketsuji Ichizoku Toukon [name: matrim]
+Changes: ROM additions (in parent)
+
+Megatouch 5 (9255-60-01 ROC) [name: megat5]
+Changes: ROM additions
+
+Money Puzzle Exchanger / Money Idol Exchanger [name: miexchng]
+Changes: ROM additions (in parent)
+
+Minnasanno Okagesamadesu [name: minasan]
+Changes: ROM additions (in parent)
+
+Syougi No Tatsujin - Master of Syougi [name: mosyougi]
+Changes: ROM additions (in parent)
+
+Metal Slug 4 Plus (bootleg) [name: ms4plus - parent: mslug4]
+Changes: ROM additions (in parent)
+
+Metal Slug 5 (JAMMA PCB) [name: ms5pcb]
+Changes: ROM additions
+
+Metal Slug 5 Plus (bootleg) [name: ms5plus - parent: mslug5]
+Changes: ROM additions (in parent)
+
+Moon Shuttle (Japan set 2) [name: mshutlj2 - parent: mshuttle]
+Changes: ROM additions
+
+Moon Shuttle (Japan) [name: mshuttlj - parent: mshuttle]
+Changes: ROM additions
+
+Metal Slug - Super Vehicle-001 [name: mslug]
+Changes: ROM additions (in parent)
+
+Metal Slug 2 - Super Vehicle-001/II [name: mslug2]
+Changes: ROM additions (in parent)
+
+Metal Slug 3 [name: mslug3]
+Changes: ROM additions (in parent)
+
+Metal Slug 6 (Metal Slug 3 bootleg) [name: mslug3b6 - parent: mslug3]
+Changes: ROM additions (in parent)
+
+Metal Slug 3 (not encrypted) [name: mslug3h - parent: mslug3]
+Changes: ROM additions (in parent)
+
+Metal Slug 4 [name: mslug4]
+Changes: ROM additions (in parent)
+
+Metal Slug 5 [name: mslug5]
+Changes: ROM additions (in parent)
+
+Metal Slug 5 (AES Cart) [name: mslug5h - parent: mslug5]
+Changes: ROM additions (in parent)
+
+Metal Slug X - Super Vehicle-001 [name: mslugx]
+Changes: ROM additions (in parent)
+
+Mutation Nation [name: mutnat]
+Changes: ROM additions (in parent)
+
+NAM-1975 [name: nam1975]
+Changes: ROM additions (in parent)
+
+Naomi 2 Bios [name: naomi2]
+Changes: ROM additions
+
+NBA Play By Play [name: nbapbp]
+Changes: ROM additions
+
+Ninja Combat (set 1) [name: ncombat]
+Changes: ROM additions (in parent)
+
+Ninja Combat (set 2) [name: ncombath - parent: ncombat]
+Changes: ROM additions (in parent)
+
+Ninja Commando [name: ncommand]
+Changes: ROM additions (in parent)
+
+Nebulas Ray (World) [name: nebulray]
+Changes: ROM additions
+
+Nebulas Ray (Japan) [name: nebulryj - parent: nebulray]
+Changes: ROM additions (in parent)
+
+Neo Bomberman [name: neobombe]
+Changes: ROM additions (in parent)
+
+Neo-Geo Cup '98 - The Road to the Victory [name: neocup98]
+Changes: ROM additions (in parent)
+
+Neo Drift Out - New Technology [name: neodrift]
+Changes: ROM additions (in parent)
+
+Neo-Geo [name: neogeo]
+Changes: ROM additions
+
+Neo Mr. Do! [name: neomrdo]
+Changes: ROM additions (in parent)
+
+Ninja Master's - haoh-ninpo-cho [name: ninjamas]
+Changes: ROM additions (in parent)
+
+Nightmare in the Dark [name: nitd]
+Changes: ROM additions (in parent)
+
+Nightmare in the Dark (bootleg) [name: nitdbl - parent: nitd]
+Changes: ROM additions (in parent)
+
+Numan Athletics (World) [name: numanath]
+Changes: ROM additions
+
+Numan Athletics (Japan) [name: numanatj - parent: numanath]
+Changes: ROM additions (in parent)
+
+Outfoxies (Japan) [name: outfxesj - parent: outfxies]
+Changes: ROM additions (in parent)
+
+Outfoxies [name: outfxies]
+Changes: ROM additions
+
+Over Top [name: overtop]
+Changes: ROM additions (in parent)
+
+Panic Bomber [name: panicbom]
+Changes: ROM additions (in parent)
+
+Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo) [name: pbobbl2n]
+Changes: ROM additions (in parent)
+
+Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 1) [name: pbobblen]
+Changes: ROM additions (in parent)
+
+Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 2) [name: pbobblna - parent: pbobblen]
+Changes: ROM additions (in parent)
+
+Peter Pack-Rat [name: peterpak]
+Changes: ROM additions (in parent)
+
+Pleasure Goal / Futsal - 5 on 5 Mini Soccer [name: pgoal]
+Changes: ROM additions (in parent)
+
+Pochi and Nyaa [name: pnyaa]
+Changes: ROM additions (in parent)
+
+Pop 'n Bounce / Gapporin [name: popbounc]
+Changes: ROM additions (in parent)
+
+Prehistoric Isle 2 [name: preisle2]
+Changes: ROM additions (in parent)
+
+Power Spikes II [name: pspikes2]
+Changes: ROM additions (in parent)
+
+Point Blank [name: ptblank]
+Changes: ROM additions
+
+Pulstar [name: pulstar]
+Changes: ROM additions (in parent)
+
+Puzzle De Pon! R! [name: puzzldpr - parent: puzzledp]
+Changes: ROM additions (in parent)
+
+Puzzle De Pon! [name: puzzledp]
+Changes: ROM additions (in parent)
+
+Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 [name: quizdai2]
+Changes: ROM additions (in parent)
+
+Quiz Daisousa Sen - The Last Count Down [name: quizdais]
+Changes: ROM additions (in parent)
+
+Quiz King of Fighters [name: quizkof]
+Changes: ROM additions (in parent)
+
+Nettou! Gekitou! Quiztou!! (Japan) [name: quiztou]
+Changes: ROM additions
+
+Racing Jam [name: racingj]
+Changes: ROM additions
+
+Racing Jam: Chapter 2 [name: racingj2 - parent: racingj]
+Changes: ROM additions
+
+Ragnagard / Shin-Oh-Ken [name: ragnagrd]
+Changes: ROM additions (in parent)
+
+Real Bout Fatal Fury / Real Bout Garou Densetsu [name: rbff1]
+Changes: ROM additions (in parent)
+
+Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision) [name: rbff1a - parent: rbff1]
+Changes: ROM additions (in parent)
+
+Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 1) [name: rbff2]
+Changes: ROM additions (in parent)
+
+Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 2) [name: rbff2h - parent: rbff2]
+Changes: ROM additions (in parent)
+
+Real Bout Fatal Fury 2 - The Newcomers (Korean release) [name: rbff2k - parent: rbff2]
+Changes: ROM additions (in parent)
+
+Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special [name: rbffspec]
+Changes: ROM additions (in parent)
+
+Riding Hero (set 1) [name: ridhero]
+Changes: ROM additions (in parent)
+
+Riding Hero (set 2) [name: ridheroh - parent: ridhero]
+Changes: ROM additions (in parent)
+
+Road Blasters (cockpit, rev 1) [name: roadblc1 - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (cockpit, German, rev 1) [name: roadblcg - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (upright, German, rev 1) [name: roadblg1 - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (upright, German, rev 2) [name: roadblg2 - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (upright, rev 1) [name: roadbls1 - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (upright, rev 2) [name: roadbls2 - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (upright, rev 3) [name: roadbls3 - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (cockpit, rev 2) [name: roadblsc - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (upright, German, rev 3) [name: roadblsg - parent: roadblst]
+Changes: ROM additions (in parent)
+
+Road Blasters (upright, rev 4) [name: roadblst]
+Changes: ROM additions (in parent)
+
+Road Runner (rev 1) [name: roadrun1 - parent: roadrunn]
+Changes: ROM additions (in parent)
+
+Road Runner (rev 1+) [name: roadrun2 - parent: roadrunn]
+Changes: ROM additions (in parent)
+
+Road Runner (rev 2) [name: roadrunn]
+Changes: ROM additions (in parent)
+
+Robo Army [name: roboarmy]
+Changes: ROM additions (in parent)
+
+Rage of the Dragons [name: rotd]
+Changes: ROM additions (in parent)
+
+Strikers 1945 Plus [name: s1945p]
+Changes: ROM additions (in parent)
+
+Samurai Shodown V Special / Samurai Spirits Zero Special (set 2, censored) [name: samsh5sh - parent: samsh5sp]
+Changes: ROM additions (in parent)
+
+Samurai Shodown V Special / Samurai Spirits Zero Special (set 3, less censored) [name: samsh5sn - parent: samsh5sp]
+Changes: ROM additions (in parent)
+
+Samurai Shodown V Special / Samurai Spirits Zero Special (set 1, uncensored) [name: samsh5sp]
+Changes: ROM additions (in parent)
+
+Samurai Shodown / Samurai Spirits (set 1) [name: samsho]
+Changes: ROM additions (in parent)
+
+Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen [name: samsho2]
+Changes: ROM additions (in parent)
+
+Samurai Shodown III / Samurai Spirits - Zankurou Musouken (set 1) [name: samsho3]
+Changes: ROM additions, ROM additions (in parent)
+
+Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin [name: samsho4]
+Changes: ROM additions (in parent)
+
+Samurai Shodown V / Samurai Spirits Zero (set 1) [name: samsho5]
+Changes: ROM additions (in parent)
+
+Samurai Shodown V / Samurai Spirits Zero (bootleg) [name: samsho5b - parent: samsho5]
+Changes: ROM additions, ROM additions (in parent)
+
+Samurai Shodown V / Samurai Spirits Zero (set 2) [name: samsho5h - parent: samsho5]
+Changes: ROM additions (in parent)
+
+Samurai Shodown / Samurai Spirits (set 2) [name: samshoh - parent: samsho]
+Changes: ROM additions (in parent)
+
+Savage Reign / Fu'un Mokushiroku - kakutou sousei [name: savagere]
+Changes: ROM additions (in parent)
+
+Star Blazer (Pioneer LDV1000) [name: sblazerp - parent: galaxyr]
+Changes: ROM additions (in parent)
+
+SDI - Strategic Defense Initiative (Europe, System 16A, FD1089B 317-0027) [name: sdi]
+Changes: ROM additions
+
+SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028) [name: sdib - parent: sdi]
+Changes: ROM additions
+
+Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu [name: sdodgeb]
+Changes: ROM additions (in parent)
+
+Sengoku / Sengoku Denshou (set 2) [name: sengokh - parent: sengoku]
+Changes: ROM additions (in parent)
+
+Sengoku / Sengoku Denshou (set 1) [name: sengoku]
+Changes: ROM additions (in parent)
+
+Sengoku 2 / Sengoku Denshou 2 [name: sengoku2]
+Changes: ROM additions (in parent)
+
+Sengoku 3 [name: sengoku3]
+Changes: ROM additions (in parent)
+
+Street Fighter Zero 3 Upper [name: sfz3ugd]
+Changes: disk additions
+
+Super Hang-On (mini ride-on?, FD1089B 317-0034) [name: shangon1 - parent: shangon]
+Changes: ROM additions
+
+Super Hang-On (mini ride-on, Rev A, FD1089B 317-0034) [name: shangon2 - parent: shangon]
+Changes: ROM additions
+
+Super Hang-On (sitdown/upright, FD1089B 317-0034) [name: shangon3 - parent: shangon]
+Changes: ROM additions
+
+Shock Troopers - 2nd Squad [name: shocktr2]
+Changes: ROM additions (in parent)
+
+Shock Troopers (set 2) [name: shocktra - parent: shocktro]
+Changes: ROM additions (in parent)
+
+Shock Troopers (set 1) [name: shocktro]
+Changes: ROM additions (in parent)
+
+Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021) [name: sjryuko]
+Changes: ROM additions
+
+Sukeban Jansi Ryuko (set 1, System 16A, FD1089B 317-5021) [name: sjryuko1 - parent: sjryuko]
+Changes: ROM additions (in parent)
+
+Soccer Brawl (set 2) [name: socbrala - parent: socbrawl]
+Changes: ROM additions (in parent)
+
+Soccer Brawl (set 1) [name: socbrawl]
+Changes: ROM additions (in parent)
+
+Aero Fighters 2 / Sonic Wings 2 [name: sonicwi2]
+Changes: ROM additions, ROM additions (in parent)
+
+Aero Fighters 3 / Sonic Wings 3 [name: sonicwi3]
+Changes: ROM additions (in parent)
+
+Space Ace (US Rev. A) [name: spaceaa - parent: spaceace]
+Changes: ROM additions (in parent)
+
+Space Ace (US Rev. A2) [name: spaceaa2 - parent: spaceace]
+Changes: ROM additions (in parent)
+
+Space Ace (US Rev. A3) [name: spaceace]
+Changes: ROM additions
+
+Spin Master / Miracle Adventure [name: spinmast]
+Changes: ROM additions (in parent)
+
+Splendor Blast [name: splndrbt]
+Changes: ROM additions
+
+Silent Scope (ver UAB) [name: sscope]
+Changes: ROM additions
+
+Silent Scope 2 [name: sscope2]
+Changes: ROM additions
+
+Silent Scope (ver UAA) [name: sscopea - parent: sscope]
+Changes: ROM additions (in parent)
+
+Super Sidekicks / Tokuten Ou [name: ssideki]
+Changes: ROM additions (in parent)
+
+Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football [name: ssideki2]
+Changes: ROM additions (in parent)
+
+Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi [name: ssideki3]
+Changes: ROM additions (in parent)
+
+Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero, The [name: ssideki4]
+Changes: ROM additions (in parent)
+
+Stakes Winner / Stakes Winner - GI kinzen seihae no michi [name: stakwin]
+Changes: ROM additions (in parent)
+
+Stakes Winner 2 [name: stakwin2]
+Changes: ROM additions (in parent)
+
+Street Hoop / Street Slam / Dunk Dream [name: strhoop]
+Changes: ROM additions (in parent)
+
+Super Don Quix-ote (Long Scenes) [name: superdq]
+Changes: ROM additions
+
+Super Don Quix-ote (Short Scenes, Alt) [name: superdqa - parent: superdq]
+Changes: ROM additions (in parent)
+
+Super Don Quix-ote (Short Scenes) [name: superdqs - parent: superdq]
+Changes: ROM additions (in parent)
+
+The Super Spy [name: superspy]
+Changes: ROM additions (in parent)
+
+SNK vs. CAPCOM SVC CHAOS [name: svc]
+Changes: ROM additions (in parent)
+
+SNK vs. CAPCOM SVC CHAOS (bootleg) [name: svcboot - parent: svc]
+Changes: ROM additions (in parent)
+
+SNK vs. CAPCOM SVC CHAOS (JAMMA PCB, set 1) [name: svcpcb]
+Changes: ROM additions
+
+SNK vs. CAPCOM SVC CHAOS (JAMMA PCB, set 2) [name: svcpcba - parent: svcpcb]
+Changes: ROM additions (in parent)
+
+SNK vs. CAPCOM SVC CHAOS Plus (bootleg set 1) [name: svcplus - parent: svc]
+Changes: ROM additions (in parent)
+
+SNK vs. CAPCOM SVC CHAOS Plus (bootleg set 2) [name: svcplusa - parent: svc]
+Changes: ROM additions (in parent)
+
+SNK vs. CAPCOM SVC CHAOS Super Plus (bootleg) [name: svcsplus - parent: svc]
+Changes: ROM additions (in parent)
+
+Super World Stadium '95 (Japan) [name: sws95]
+Changes: ROM additions
+
+Super World Stadium '96 (Japan) [name: sws96]
+Changes: ROM additions
+
+Super World Stadium '97 (Japan) [name: sws97]
+Changes: ROM additions
+
+Teraburst [name: terabrst]
+Changes: ROM additions
+
+Thrill Drive [name: thrilld]
+Changes: ROM additions
+
+Time Scanner (set 1, System 16A, FD1089B 317-0024) [name: timesca1 - parent: timescan]
+Changes: ROM additions
+
+Top Hunter - Roddy & Cathy (set 2) [name: tophunta - parent: tophuntr]
+Changes: ROM additions (in parent)
+
+Top Hunter - Roddy & Cathy (set 1) [name: tophuntr]
+Changes: ROM additions (in parent)
+
+Top Player's Golf [name: tpgolf]
+Changes: ROM additions (in parent)
+
+Thrash Rally [name: trally]
+Changes: ROM additions (in parent)
+
+Neo Turf Masters / Big Tournament Golf [name: turfmast]
+Changes: ROM additions (in parent)
+
+Twinkle Star Sprites [name: twinspri]
+Changes: ROM additions (in parent)
+
+Tecmo World Soccer '96 [name: tws96]
+Changes: ROM additions (in parent)
+
+Us vs. Them [name: usvsthem]
+Changes: ROM additions
+
+Viewpoint [name: viewpoin]
+Changes: ROM additions (in parent)
+
+V-Liner (set 1) [name: vliner]
+Changes: ROM additions (in parent)
+
+V-Liner (set 2) [name: vlinero - parent: vliner]
+Changes: ROM additions (in parent)
+
+J-League Soccer V-Shoot [name: vshoot]
+Changes: ROM additions
+
+Waku Waku 7 [name: wakuwak7]
+Changes: ROM additions (in parent)
+
+Wonder Boy III - Monster Lair (set 5, System 16A, FD1089A 317-xxxx) [name: wb35 - parent: wb3]
+Changes: ROM additions
+
+Welltris (World?, 2 players) [name: welltris]
+Changes: ROM additions
+
+World Heroes (set 1) [name: wh1]
+Changes: ROM additions (in parent)
+
+World Heroes (set 2) [name: wh1h - parent: wh1]
+Changes: ROM additions (in parent)
+
+World Heroes (set 3) [name: wh1ha - parent: wh1]
+Changes: ROM additions (in parent)
+
+World Heroes 2 [name: wh2]
+Changes: ROM additions (in parent)
+
+World Heroes 2 Jet (set 1) [name: wh2j]
+Changes: ROM additions (in parent)
+
+World Heroes 2 Jet (set 2) [name: wh2jh - parent: wh2j]
+Changes: ROM additions (in parent)
+
+World Heroes Perfect [name: whp]
+Changes: ROM additions (in parent)
+
+Windjammers / Flying Power Disc [name: wjammers]
+Changes: ROM additions (in parent)
+
+X-Day 2 (Japan) [name: xday2]
+Changes: ROM additions
+
+Zed Blade / Operation Ragnarok [name: zedblade]
+Changes: ROM additions (in parent)
+
+Zintrick / Oshidashi Zentrix (hack / bootleg) [name: zintrckb]
+Changes: ROM additions (in parent)
+
+Zupapa! [name: zupapa]
+Changes: ROM additions (in parent)
+
+------------------------------- Game additions -------------------------------
+
+> Ms. Pac-Man/Galaga - 20 Year Reunion (V1.04) [name: 20pacgal]
+> Three Wonders (hack?) [name: 3wonderh - parent: 3wonders]
+> Aero Fighters Special (TAIWAN) [name: aerofgts]
+> Armored Warriors (USA 940920) [name: armwaru1 - parent: armwar]
+> Atari System 1 BIOS [name: atarisy1]
+> Baby Dado [name: babydad - parent: videopkr]
+> Baby Poker [name: babypkr - parent: videopkr]
+> Black Jack [name: blckjack - parent: videopkr]
+> Buena Suerte (spanish, set 1) [name: bsuerte]
+> Buena Suerte (spanish, set 2) [name: bsuertea - parent: bsuerte]
+> Chanbara [name: chanbara]
+> Musapey's Choco Marker (GDL-0014A) [name: chocomk]
+> Capcom Sports Club (Euro 971017) [name: csclub]
+> Capcom vs SNK Millenium Fight 2000 Pro (GDL-0004) [name: cvsgd]
+> Double Dragon (bootleg) [name: ddragob2 - parent: ddragon]
+> Decathlete (JUET 960709 V1.001) [name: decathlt]
+> Demolish Fist [name: demofist]
+> Dogou Souken (Joystick hack bootleg) [name: dogosokb - parent: victroad]
+> Virtua Golf / Dynamic Golf (GDS-0009) [name: dygolf]
+> Egg Venture (A.L. Release) [name: eggventa - parent: eggventr]
+> Fire Fox (set 1) [name: firefox]
+> Fire Fox (set 2) [name: firefoxa - parent: firefox]
+> Fist Of The North Star [name: fotns]
+> Funny Land de Luxe [name: funlddlx]
+> GameCristal (version 2.613) [name: gamecst2 - parent: gamecstl]
+> Gee Bee (Gremlin) [name: geebeeg - parent: geebee]
+> Guilty Gear XX (GDL-0011) [name: ggxx]
+> Guilty Gear XX #Reload (GDL-0019A) [name: ggxxrl]
+> Good Luck [name: goodluck]
+> Mobile Suit Gundam: Federation VS Zeon (GDL-0001) [name: gundmgd]
+> Mobile Suit Gundam: Federation VS Zeon DX  (GDL-0006) [name: gundmxgd]
+> Giga Wing (Brazil 990222) [name: gwingb - parent: gigawing]
+> Hot Mind (adjustable prize) [name: hotminda - parent: hotmind]
+> Ikari Warriors (US) [name: ikaria - parent: ikari]
+> Ikari Warriors (US No Continues) [name: ikarinc - parent: ikari]
+> Ikaruga (GDL-0010) [name: ikaruga]
+> Imago (cocktail set) [name: imago]
+> Initial D (GDS-0020b) [name: initd]
+> The King of Fighters 2003 (set 2) [name: kof2003h - parent: kof2003]
+> The King of Fighters '95 (set 2) [name: kof95h - parent: kof95]
+> Mad Zoo [name: madzoo]
+> Magic's 10 (ver. 16.15) [name: magic10b - parent: magic10]
+> Magic Joker (v1.25.10.2000) [name: magjoker]
+> Marble Madness (set 5 - LSI Cartridge) [name: marble5 - parent: marble]
+> Matrimelee / Shin Gouketsuji Ichizoku Toukon (bootleg) [name: matrimbl - parent: matrim]
+> Megatouch III (9255-20-07 ROG, New Jersey version) [name: megat3nj - parent: megat3]
+> Super Megatouch IV (9255-41-07 ROG, New Jersey version) [name: megat4sn - parent: megat4]
+> Megatouch 5 (9255-60-07 RON, New Jersey version) [name: megat5nj - parent: megat5]
+> Melty Blood Act Cadenza (GDL-0028C) [name: meltybld]
+> Mortal Kombat 3 (rev 1 chip label p4.0) [name: mk3p40 - parent: mk3]
+> Marvel Vs. Capcom: Clash of Super Heroes (Euro 980123) [name: mvsc]
+> Paradise 2 Deluxe [name: para2dx]
+> Pool 10 (italian, set 4) [name: pool10d - parent: pool10]
+> Jack Potten's Poker (set 5) [name: potnpkrd - parent: pottnpkr]
+> Jack Potten's Poker (set 6) [name: potnpkre - parent: pottnpkr]
+> Quiz Keitai Q mode (GDL-0017) [name: quizqgd]
+> The Great Ragtime Show (Japan v1.3, 92.11.26) [name: ragtimea - parent: boogwing]
+> Rapid River (RD3 Ver. C) [name: rapidrvr]
+> Royale (ver.X) [name: royale]
+> Samurai Shodown III / Samurai Spirits - Zankurou Musouken (set 2) [name: samsho3h - parent: samsho3]
+> Super Basketball (version H, unprotected) [name: sbasketb]
+> Senko No Ronde (GDL-0030A) [name: senko]
+> Super Gran Safari (ver 3.11) [name: sgsafari]
+> Shikigami No Shiro II / The Castle of Shikigami II (GDL-0021) [name: shikgam2]
+> Slashout (GDS-0004) [name: slashout]
+> Super Loco 93 (spanish, set 1) [name: sloco93]
+> Super Loco 93 (spanish, set 2) [name: sloco93a - parent: sloco93]
+> Scacco Matto / Space Win [name: spacewin]
+> Spikers Battle (GDS-0005) [name: spkrbtl]
+> Sports Jam (GDS-0003) [name: sprtjam]
+> Super Shanghai 2005 (GDL-0031A) [name: ss2005]
+> Tengai (World) [name: tengai]
+> Time Crisis 2 (TSS2 Ver. B) [name: timcrs2b - parent: timecrs2]
+> The NewZealand Story (Japan) (newer PCB) [name: tnzsjn - parent: tnzs]
+> Top Skater (USA) [name: topskatu - parent: topskatr]
+> Virtua Athletics / Virtua Athlete (GDS-0019) [name: vathlete]
+> Virtua Fighter 4 (GDS-0012) [name: vf4]
+> Video Cordoba [name: videocba - parent: videopkr]
+> Video Dado [name: videodad - parent: videopkr]
+> Video Poker [name: videopkr]
+> Video System PSX [name: vspsx]
+> Virtua Striker 3 (GDS-0006) [name: vstrik3]
+> Witch Card (spanish, set 1) [name: witchcda - parent: witchcrd]
+> Witch Card (spanish, set 2) [name: witchcdb - parent: witchcrd]
+> Witch Card (english) [name: witchcrd]
+> World Series Baseball (GDS-0010) [name: wsbbgd]
+
